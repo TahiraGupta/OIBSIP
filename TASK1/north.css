@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.north{
+background:url(1.avif) fixed;
+color: aliceblue;
+text-decoration: none;
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
